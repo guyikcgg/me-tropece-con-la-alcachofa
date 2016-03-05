@@ -14,3 +14,10 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# tex
+*.log
+*.aux
+
+# gedit
+*~
