@@ -27,3 +27,10 @@ Durante mis estudios, he aprendido a cocinar un poco, usando la intuición y las
 Tengo miedo que las recetas tradicionales de mi casa se pierdan. Y al mismo tiempo, necesito tomar notas de mis descubrimientos culinarios.
 
 ¡Así es como surge este proyecto!
+
+Actualización
+=============
+
+Este proyecto está parado actualmente, pero no ha muerto.
+
+Tengo una sorpresita preparada para junio ;)
